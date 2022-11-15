@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pratik-09pp-IP-LAB5-React/static/css/main.a7593864.css",
+    "main.js": "/Pratik-09pp-IP-LAB5-React/static/js/main.fa758a49.js",
+    "static/js/787.3b89c213.chunk.js": "/Pratik-09pp-IP-LAB5-React/static/js/787.3b89c213.chunk.js",
+    "index.html": "/Pratik-09pp-IP-LAB5-React/index.html",
+    "main.a7593864.css.map": "/Pratik-09pp-IP-LAB5-React/static/css/main.a7593864.css.map",
+    "main.fa758a49.js.map": "/Pratik-09pp-IP-LAB5-React/static/js/main.fa758a49.js.map",
+    "787.3b89c213.chunk.js.map": "/Pratik-09pp-IP-LAB5-React/static/js/787.3b89c213.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7593864.css",
+    "static/js/main.fa758a49.js"
+  ]
+}
